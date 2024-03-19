@@ -1,4 +1,4 @@
-Title: Decentralized Voting Application
+Decentralized Voting Application
 
 Abstract:
 The Decentralized Voting Application is a prototype leveraging blockchain technology to facilitate secure and transparent voting processes. This report outlines the design, implementation, and significance of this project.
